@@ -14,8 +14,8 @@ def sendmail(email_receivers,*args, **kwargs):
     value=kwargs.get('value')
     
 
-    login= "nmdr.info@e4email.net"
-    password = "Startrek77" 
+    login= "An outlook email"
+    password = "email's password" 
     sender_email = login
     
     for name,email in email_receivers.items():

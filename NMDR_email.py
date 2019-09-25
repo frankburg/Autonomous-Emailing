@@ -126,7 +126,7 @@ def threshold_stat(data):
 
 
 indicators_and_thresholds={'HH0iQLlqddM':7000.0}
-email_receivers={'Francis':'francismaduakor7@gmail.com','Ime':'ime@ehealth4everyone.com','Aniekan':'a.ebito@ehealth4everyone.com'}
+email_receivers={'Francis':'email@gmail.com','Henry':'email@gmail.com','Abdul':'email@gmail.com'}
 
 
 
